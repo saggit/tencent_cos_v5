@@ -1,5 +1,6 @@
 use reqwest::Client;
 
+
 pub struct CosClient {
     base_url: String,
     appid: String,
